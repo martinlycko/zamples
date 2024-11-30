@@ -14,9 +14,12 @@ pub fn JSONString() !void {
     var fba = std.heap.FixedBufferAllocator.init(&buf);
     var string = std.ArrayList(u8).init(fba.allocator());
     try std.json.stringify(me, .{}, string.writer());
-    std.debug.print("{s}", .{string.items});
+
+    var file = try std.fs.cwd().createFile("outputs/output.json", .{});
+    defer file.close();
+    try file.writeAll(string.items);
 }
 
-test "ReadStdInBuffered" {
+test "JSONStringTest" {
     try JSONString();
 }
