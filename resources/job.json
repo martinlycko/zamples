@@ -1,0 +1,140 @@
+{
+    "Jobs": [
+        {
+            "Link": "https://www.linkedin.com/jobs/view/4078804734/?alternateChannel=search&refId=giSBFfckTte%2BMvDZjNdrAw%3D%3D&trackingId=H57pqFJnyg%2BcMnwRXGucUw%3D%3D",
+            "Title": "Insights Analyst",
+            "Company": "Simplyhealth",
+            "Location": "Andover",
+            "LocMode": "Hybrid",
+            "Hours": "Full-time",
+            "Contract": "Permanent",
+            "CompanyDescr": "We’re not just your average health company; we’re aiming to revolutionise access to healthcare in the UK by offering innovative health and wellbeing solutions that are affordable, accessible, and effective. From preventive care to comprehensive medical support, we aim to empower individuals to take charge of their health, inspiring them to make the most of their wellbeing. Added to that we’re the first health insurer in the UK to be awarded B-Corp status in recognition of our significant achievements in sustainability, in addition to our ambitious environmental and social responsibility goals.",
+            "JobDescr": "We’re looking for a Commercial and Competitive Intelligence Analyst to join our Commercial Product and Partnerships team. You’ll reporting into the Product Strategy Lead & Business Manager and working in a team with Insights and Propositions professionals. In role, you’ll manage all competitor intelligence. Day to day you’ll be conducting competitor analysis, market intelligence and customer analysis; and analysing customer datasets to identify risks and opportunities – using tools including CACI Acorn and Wellbeing.",
+            "CompensationMin": "40000",
+            "CompensationMax": "45000",
+            "RequirementsEssential": [
+                "Strong analytical and critical thinking skills",
+                "Detail-oriented with the ability to work with large datasets and draw meaningful conclusions",
+                "Proactive and self-motivated, with a curiosity-driven approach to problem-solving",
+                "Ability to work in a fast-paced and evolving environment, adapting to new technologies and methodologies",
+                "Experience in gathering, analysing and synthesising intelligence across industries and markets",
+                "Geospatial Analysis: proficient in using geospatial tools such as CACI Acorn and Wellbeing tools, or other Geographic Information Systems (GIS) software to analyse location-based data and trends",
+                "Experience in providing actionable recommendations based on data",
+                "Ability to design and implement both primary and secondary research strategies.",
+                "Strong written and verbal communication skills to effectively present complex findings to both technical and non-technical stakeholders"
+            ],
+            "RequirementsDesired": [
+                "Experience in identifying and tracking key competitors, market trends, industry disruptions, and emerging opportunities.",
+                "Ability to overlay competitive data with geospatial maps to identify patterns and competitive advantages based on geography, demographics, or market regions.",
+                "Data Collection & Analysis: experience with gathering both qualitative and quantitative data from diverse sources, including public records, market reports, news, social media, government databases, and commercial intelligence providers.",
+                "Experience in social listening tools and sentiment analysis to track competitor sentiment in the market",
+                "Expertise in data normalisation, validation, and synthesis for actionable insights.",
+                "Skills in competitor benchmarking, market sizing, and understanding customer behaviour trends."
+            ],
+            "SkillList": [
+                "Benchmarking",
+                "Geographic Information Systems (GIS)",
+                "Analytical Skills",
+                "Sentiment Analysis",
+                "Datasets",
+                "Social Listening",
+                "Market Sizing",
+                "Sizing"
+            ],
+            "HiringProcess": [
+                "Application",
+                "Screening call with Talent Acquisition Team ",
+                "Virtual Interview with the hiring manager and team",
+                "Aptitude assessment",
+                "Presentation/case study with the hiring manager and team",
+                "Offer"
+            ],
+            "Limitations": [
+                "Basic DBS"
+            ]
+        },
+        {
+            "Link": "https://www.linkedin.com/jobs/view/4072597354/?alternateChannel=search&refId=giSBFfckTte%2BMvDZjNdrAw%3D%3D&trackingId=BepmSX0%2BiIUthBskzMVsfA%3D%3D",
+            "Title": "Senior Insight Analyst ",
+            "Company": "Venn Group",
+            "Location": "East of England",
+            "LocMode": "Hybrid",
+            "Hours": "Full-time",
+            "Contract": "Fixed - 6 months initially",
+            "CompanyDescr": "",
+            "JobDescr": "Our client is looking for a Senior Insight Analyst (intelligence) to join a team of talented professionals in a Local Authority. To be considered, you must have a strong knowledge Power BI and Education/ SEND experience. This is an exciting opportunity for the right candidate so please do apply if you are interested and have the below experience.",
+            "Resposibilities": [
+                "Lead high-quality data analysis and insights to support decision-making and policy development",
+                "Manage data extraction, transformation, and visualisation to support service delivery",
+                "Ensure the accuracy and quality of data for statutory reporting and performance monitoring",
+                "Communicate complex data clearly to stakeholders at all levels",
+                "Line manages analysts and oversee team performance",
+                "Using power BI for special educational needs to build dash boards"
+            ],
+            "CompensationMin": "",
+            "CompensationMax": "",
+            "RequirementsEssential": [
+                "Degree or equivalent experience in data analysis or a related field",
+                "Social/SEND/Education experience is essential",
+                "Strong expertise in data analysis, including tools like PowerBI",
+                "Experience with coding languages (e.g., SQL, Python, R)",
+                "Previous experience in the public sector, preferably Local Government"
+            ],
+            "RequirementsDesired": [
+                ""
+            ],
+            "SkillList": [
+                "Microsoft Power BI",
+                "Local Government"
+            ],
+            "HiringProcess": [
+                ""
+            ],
+            "Limitations": [
+                "Basic DBS"
+            ]
+        },
+        {
+            "Link": "https://www.linkedin.com/jobs/view/4065586127/?alternateChannel=search&refId=ZLOtvHX%2BR5Xl8SkFCm8FAQ%3D%3D&trackingId=HUEgKj81YpDC%2BFoH3n7b2A%3D%3D",
+            "Title": "Senior Data Analyst",
+            "Company": "Computappoint",
+            "Location": "London",
+            "LocMode": "Hybrid",
+            "Hours": "Full-time",
+            "Contract": "Permanent",
+            "CompanyDescr": "",
+            "JobDescr": "This is an exciting opportunity for an experienced Senior Data Analyst to join a managed service provider who champion a healthy work-life balance. They are looking for someone who can join a team of Data Analysts in a senior capacity to help guide and mentor less senior team members in generating reports, dashboards, graphs, and visualisations in a clear & easy to understand format as well as being able to work closely with customers to collate & compile information from various data sources (structured & non-structured) and manipulating information using tools such as Excel, SQL, and/or Python. Ideally this person would have experience building dashboards using Metabase.",
+            "CompensationMin": "55000",
+            "CompensationMax": "60000",
+            "RequirementsEssential": [
+                "5+ years experience in delivering customer projects is essential",
+                "Excellent knowledge and technical skills in Advanced Microsoft Excel and BI/Reporting visualisation tools with the ability to create clear reports and dashboards for stakeholders.",
+                "Strong ability to manipulate and manage large data sets for ingestion into other tools for reporting and analysis.",
+                "Microsoft Certified: Power BI Data Analyst Associate (PL-300)",
+                "Proven skills deliver Customer projects",
+                "Experience building dashboards using Metabase and/or Power BI"
+                ],
+            "RequirementsDesired": [
+                "Experience with Python is highly desirable."
+            ],
+            "SkillList": [
+                "Python (Programming Language)",
+                "Data Analysis",
+                "Microsoft Excel",
+                "SQL",
+                "Data Analytics",
+                "Visualization",
+                "Reporting & Analysis",
+                "Analytical Skills",
+                "Dashboards",
+                "Microsoft Power BI"
+            ],
+            "HiringProcess": [
+                ""
+            ],
+            "Limitations": [
+                "Basic DBS"
+            ]
+        }
+    ]
+}
