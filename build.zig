@@ -15,12 +15,17 @@ pub fn build(b: *std.Build) void {
     // set a preferred release mode, allowing the user to decide how to optimize.
     const optimize = b.standardOptimizeOption(.{});
 
+    const textpac =b.dependency("testpac", .{.target = target});
+    const testmod = textpac.module("testmod");
+
     const exe = b.addExecutable(.{
         .name = "zamples",
         .root_source_file = b.path("src/main.zig"),
         .target = target,
         .optimize = optimize,
     });
+
+    exe.root_module.addImport("testmod", testmod);
 
     // This declares intent for the executable to be installed into the
     // standard location when the user invokes the "install" step (the default
