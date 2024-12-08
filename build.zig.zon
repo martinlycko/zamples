@@ -24,8 +24,8 @@
     // internet connectivity.
     .dependencies = .{
         .testpac = .{
-            .url = "https://github.com/martinlycko/zigpackagetest/archive/refs/tags/test3.tar.gz",
-            .hash = "122005a5413427fda19eccec0e2cddfccc5ead6c045030358d22c6b440aad51e2a30",
+            .url = "https://github.com/martinlycko/zamples-externalpackage/archive/refs/tags/v5.tar.gz",
+            .hash = "12204ad786a1ea1d87ea77587065d7dedbedc5f94018457d3cd724508272dc819977",
         },
         // See `zig fetch --save <url>` for a command-line interface for adding dependencies.
         //.example = .{
